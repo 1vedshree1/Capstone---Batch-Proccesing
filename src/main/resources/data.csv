@@ -1,0 +1,7 @@
+id,firstName,lastName,email,designation,department,salary
+1,John,Doe,john.doe@example.com,Software Engineer,IT,70000
+2,Jane,Smith,jane.smith@example.com,Product Manager,Product,80000
+3,Emily,Jones,emily.jones@example.com,Data Analyst,Analytics,60000
+4,Michael,Brown,michael.brown@example.com,System Administrator,IT,65000
+5,Sarah,Davis,sarah.davis@example.com,UX Designer,Design,75000
+10,Vedshree,Bhosale,vedshree@gmail.com,Trainee Engineer,Cash Management, 45000
